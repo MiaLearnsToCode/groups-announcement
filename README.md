@@ -16,3 +16,5 @@ const groups = {
 ```
 
 Once you are done updating the data, simply open the index.js file in the browser and click on each chip one at a time to reveal the team members!
+
+Or if you are feeling lazy (you know who you are!), update the p tags directly from the console in the browser from the demo...  
