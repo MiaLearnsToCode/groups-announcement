@@ -1,6 +1,6 @@
 # Groups announcement
 
-This is a small project I built to announce members of group projects for SEI Project 3. 
+This is a small project I built to announce members of group projects for SEI Project 3 & to shuffle pre. 
 
 If you want to use this project to announce the groups in the class, clone the repo and add your chosen members to each group in the groups.js file. 
 
